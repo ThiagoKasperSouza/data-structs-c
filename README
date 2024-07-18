@@ -1,0 +1,14 @@
+This directory contains the sources of the data-structs-C lessons.
+
+The data-structs-C is a repository used for train data structures lessons using
+the C language.
+
+
+This repository have the following lessons so far:
+
+- TAD modularization - aula1
+
+
+To run any lesson, run the following:
+
+	gcc ./src/aulaX.c -o ./src/out/aulaX.o -lm && ./src/out/aulaX.o
